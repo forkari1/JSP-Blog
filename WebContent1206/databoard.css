@@ -1,0 +1,9 @@
+
+tr { font-family: "±¼¸²"; font-size: 9pt; color: #333333; }
+input { border:1px solid #666666; font-family: "µ¸¿ò"; font-size: 9pt; color: #333333; page-break-before: right;}
+SELECT { border:1px solid #666666; font-family: "µ¸¿ò"; font-size: 9pt; color: #333333; page-break-before: right;}
+textarea { border:1px solid #666666; font-family: "µ¸¿ò"; font-size: 9pt; color: #333333; page-break-before: right;}
+.button { background-image: url(image/dot.gif); background-repeat: repeat-x; background-position: bottom }
+A:link {font-family: ±¼¸²;  font-size: 9pt; text-decoration: none; color: #000000} 
+A:visited {font-family: ±¼¸²;  font-size: 9pt; text-decoration: none; color: #000000} 
+A:hover {font-family: ±¼¸²;  font-size: 9pt; text-decoration: none; color: #1F4F8F } 
